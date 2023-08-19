@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yjay2kim.github.io/sitemap.xml
