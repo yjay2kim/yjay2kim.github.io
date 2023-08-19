@@ -8,3 +8,8 @@ User-agent: *
 Disallow: /norobots/
 
 Sitemap: {{ '/sitemap.xml' | absolute_url }}
+
+User-agent: *
+Allow: /
+
+Sitemap: https://yjay2kim.github.io/sitemap.xml
